@@ -1,0 +1,6 @@
+*.log
+*.pyc
+.vscode
+.idea
+db.sqlite3
+__pycache__
